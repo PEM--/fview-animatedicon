@@ -1,0 +1,3 @@
+[submodule "lib/famous-animatedIcon"]
+	path = lib/famous-animatedIcon
+	url = https://github.com/IjzerenHein/famous-animatedIcon.git
